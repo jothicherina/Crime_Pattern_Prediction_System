@@ -10,6 +10,14 @@ The system uses crime data from Chicago to explore crime distribution across dif
 
 Developed using **Java and Maven**, this project demonstrates how software development, database management, and crime data analysis can be combined to build a practical crime analytics application.
 
+## 🌐 Live Demo
+
+Explore the deployed application here:
+
+**[Launch Crime Pattern Prediction System](https://crimepatternpredictionsystem-awugsgvqbhbuxratku543r.streamlit.app/)**
+
+The live application provides an interactive interface for exploring crime patterns, analyzing historical trends, and examining geographical crime hotspots.
+
 ## 🎯 Objectives
 
 - Analyze historical crime records to identify recurring crime patterns.
