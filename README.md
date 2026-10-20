@@ -388,9 +388,13 @@ GitHub: [jothicherina](https://github.com/jothicherina)
 
 ## 📄 License
 
-This project is intended for educational and academic purposes.
+This project is licensed under the [MIT License](LICENSE).
 
-A license has not been specified. If you plan to distribute the project publicly, consider adding an appropriate open-source license and reviewing the dataset's applicable terms.
+The MIT License allows others to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the project's licensed code, subject to the license terms.
+
+See the [LICENSE](LICENSE) file for the complete license text.
+
+**Note:** The license applies to the project materials you own. The Chicago crime dataset and third-party dependencies may be subject to separate licensing terms.
 
 ## 🙏 Acknowledgements
 
